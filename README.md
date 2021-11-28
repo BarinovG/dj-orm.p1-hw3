@@ -4,5 +4,5 @@
 
 1. [Выгрузка каталога товаров из csv-файла с сохранением всех позиций в базе данных](./work_with_database) // DONE
 
-2. [Делаем онлайн-библиотеку](./models_list_displaying) // IN PROCESSING...
+2. [Делаем онлайн-библиотеку](./models_list_displaying) // DONE
 
